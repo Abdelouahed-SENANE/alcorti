@@ -1,0 +1,3 @@
+[submodule "alcorti-api"]
+	path = alcorti-api
+	url = https://github.com/Abdelouahed-SENANE/alcorti-api.git
